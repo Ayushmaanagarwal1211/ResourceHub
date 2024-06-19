@@ -1,4 +1,4 @@
-# FrontEnd Web Development 💻
+# FrontEnd Web Development 
 ## Overview
 - [Roadmap](#roadmap)
 - [Courses](#courses)
@@ -798,6 +798,10 @@
         <td> <a href="https://tailwindui.com/">Tailwind UI</a></td>
         <td>Build your next idea even faster. Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.</td>
     </tr>
+    <tr>
+        <td> <a href="https://ui.aceternity.com/components">Aceternity UI</a></td>
+        <td>Copy paste the most trending components and use them in your websites without having to worry about styling and animations.</td>
+    </tr>
       <tr>
       <td><a href="https://semantic-ui.com/">Semantic UI</td>
       <td>Semantic UI is an open-source framework that uses CSS and jQuery to build great user interfaces. It is the same as a bootstrap for use and has different great elements to use to make your website look more amazing. It uses a class to add CSS to the elements.</td>
@@ -1119,6 +1123,13 @@ to everyone - everywhere!</td>
       <td><a href="https://github.com/Saipradyumnagoud/calcuclator">Calculator</a></td>
       <td>This repo By Sai Pradyumna Contains code for calculator where you can perform operations you can use this application by cloning the repository it is developed by html,css,javascript</td>
     </tr>
+    <tr>
+      <td><a href="https://www.youtube.com/watch?v=cb4d1QQY_BY">Netflix Landing Page</a></td>
+      <td>Netflix landing Page  tutorial using HTML,CSS and JavaScript which resembles like Netflix Home Page where user can login to his netflix account and contains FAQ section.</td>
+    </tr>
+    
+
+    
 </table>
 
 #### Intermediate projects

@@ -1,4 +1,4 @@
-# Web3 🚀
+# Web3 
 
 Web3 is the next-generation internet characterized by decentralization, blockchain technology, and user empowerment. It replaces central authorities with peer-to-peer interactions, relies on blockchain for trustless transactions, and emphasizes data ownership and privacy. Web3 features decentralized applications, smart contracts, and cryptocurrencies, fostering a more open, collaborative, and user-centric online ecosystem.
 
@@ -374,6 +374,10 @@ develop software that works with them</td>
     <td>Wagmi is a React Hooks library for Ethereum  Wagmi has a CLI to manage ABIs as well as a robust ecosystem of third-party libraries, RainbowKit, and many more, so you can get started quickly without needing to build everything from scratch.</td>
   </tr>
   <tr>
+    <td><a href="https://www.dynamic.xyz/">Dynamic </a></td>
+    <td>Dynamic offers a suite of tools for effortless log in, wallet creation and user management. Designed for users. Built for developers.</td>
+  </tr>
+  <tr>
     <td><a href="https://web3py.readthedocs.io/en/stable/">Web3.py</a></td>
     <td>Web3.py is a Python library for interacting with the Ethereum blockchain. It provides a convenient interface for querying blockchain data, sending transactions, and deploying contracts using Python.</td>
   </tr>
@@ -627,6 +631,10 @@ Blockchain Supply chain management plays a critical role in ensuring efficient o
        <tr>
         <td><a href="https://youtu.be/fghqq3-P3x0?si=xvgcZ0NiSYdFaCPy">Decentralize Google Drive Project</a></td>
         <td> This project facilitates decentralized image upload and sharing on the blockchain using Solidity for the smart contract and React for the front-end interface. It enables users to securely upload images to IPFS (InterPlanetary File System) and share access with specified users through smart contract functionality.</td>
+      </tr>
+      <tr>
+        <td><a href="https://youtu.be/zfLGYZDYFuo?si=sO0lC2Xi-xiOaZz_">TODO application using Blockchain</a></td>
+        <td>In this create a cutting-edge Bern application (dApp) from scratch using the powerful combination of Blockchain, Express, React, and Node.js. Whether you're a seasoned developer looking to expand your skills or a curious beginner eager to delve into decentralized app development, this step-by-step guide has got you covered.</td>
       </tr>
       <tr>
         <td><a href="https://youtu.be/X1ahXNYkpL8?si=kMNrjlvIaKx0Mbhe">Web 3.0 Amazon Clone</a></td>

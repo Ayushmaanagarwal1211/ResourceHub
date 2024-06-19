@@ -1,4 +1,4 @@
-# Data Structures and Algorithm (DSA) 🖥
+# Data Structures and Algorithm (DSA)
 
 Data Structures and Algorithms (DSA) refer to the study of methods for organizing and storing data and the design of procedures (algorithms) for solving problems, which operate on these data structures. 
 
@@ -21,7 +21,8 @@ This section serves as a curated collection of valuable resources for learning a
    - [Java](#java)<br>
    - [Python](#python)<br>
    - [Javascript](#javascript)<br>
-   
+- [CheatSheet](#cheatsheet)
+- [Algorithm by Languages](#algorithm-by-languages)
 - [Conclusion](#conclusion)
 
 ## Roadmap
@@ -46,6 +47,10 @@ Let's make coding fun and exciting! 🚀.</td>
   <td><a href="https://www.naukri.com/code360/library/complete-data-structures-and-algorithms-roadmap-for-placements">DSA Roadmap for beginners</a></td>
   <td>This article will lay down a complete DSA roadmap for any beginner to obtain proficiency in solving complex computational challenges needed to crack any top product-based companies</td>
   </tr>
+   <tr>
+    <td><a href="https://www.scaler.com/topics/dsa-roadmap/"> DSA Roadmap for Complete Learning </a></td>
+    <td>This DSA roadmap will provide a structured approach to mastering data structures and algorithms, covering essential concepts, practical coding exercises, and optimization techniques to enhance problem-solving skills and coding efficiency.</td>
+    </tr>
 </table>
 
 ## Types of Data Structures
@@ -111,6 +116,11 @@ Let's make coding fun and exciting! 🚀.</td>
   <tr>
   <td><a href="https://youtu.be/2ZLl8GAk1X4?si=QZnOfU7lS0svdwwO"> Data Structures and Algorithms with Visualization - Full Course in Java by FreeCodeCamp </a></td>
   <td> Data Structures and Algorithms is an important aspect of every coding interview. This course will help you prepare for placements, coding interviews, and logic building. The course walks you through multiple Java algorithms, data structure problems, and their solutions with step-by-step visualizations, so that you are actually learning instead of blindly memorizing solutions.
+</td>
+</tr>
+ <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ"> Data Structures and Algorithms - Full Course in C++ </a></td>
+  <td> Learn Data Structures and Algorithms in C++: comprehensive course covering key concepts, practical coding, and optimization techniques.
 </td>
 </tr>
 </table>
@@ -247,6 +257,10 @@ To the Point, Short and Practical - These 3 terms defines our Content
   <tr>
 <td><a href="https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0">Apna College DSA Sheet </a></td>
 <td> This DSA sheet by Apna College is a valuable resource for Data Structures & Algorithms with around 400 problems topic-wise and the companies that have asked the problem. </td>
+</tr>
+<tr>
+<td><a href="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2">Strivers A2Z DSA Course/Sheet</a></td>
+<td> This course is made for people who want to learn DSA from A to Z for free in a well-organized and structured manner. The lecture quality is better than what you get in paid courses. </td>
 </tr>
 </table>
 
@@ -492,6 +506,86 @@ To the Point, Short and Practical - These 3 terms defines our Content
 </tr>
 </table>
 
+### Cheatsheet
+
+<table width="100%" id="sheets">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+</tr>
+<tr><td>
+<a href="https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/">Cheatsheets from GFG</a></td>
+<td>It consists of topic-wise sheets for better understanding</td>
+</tr>
+</table>
+
+### Algorithms by Languages
+> Here are some   Sorting and Searching Algorithms resources and their Implementation in different Languages.
+### JavaScript
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=P6XGSKO2RzI&t=519s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in javascript and tells about importance of quick sort</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=x_Z9FcAPmbk&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in javascript in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=75jGy1xAhhs&t=2s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search  and provides implementation in javascript .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+</table>
+
+### Java
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=h8eyY7dIiN4&t=2s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in Java and tells about importance of quick sort.</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=bOk35XmHPKs&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in java in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=NFhOrxtXXcM&t=1s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search and provides implementation in java .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+</table>
+
+### Python
+
+<table width="100%" id="algorithms-by-languages">
+<tr>
+<th>Resource Name</th>
+<th>Description</th>
+
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=kFeXwkgnQ9U&t=1s">Quick Sort</a></td>
+<td>This tutorial explains about quick sort  and provides implementation in Python and tells about importance of quick sort</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Merge Sort</a></td>
+<td>This tutorial explains about merge sort  and provides implementation in Python in different methods</td>
+</tr>
+<tr>
+<td><a href="https://www.youtube.com/watch?v=cVZMah9kEjI&t=1s">Binary Search</a></td>
+<td>This tutorial explains about Binary Search and provides implementation in Python .Binary Search is optimal Searching Algorithm  it reduces time complexity than linear search</td>
+</tr>
+
+
+</table>
 
 ##  Conclusion
 

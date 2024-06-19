@@ -588,11 +588,11 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PLAFDF86F7552393D0">Operating System Concepts Playlist</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLW2ssKJ5EDP9kp4yvCSBORrOTiR2enkn7">Operating System Concepts Playlist</a></td>
     <td>A YouTube playlist covering fundamental concepts in operating systems, ideal for beginners.</td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMK6f7RX0xhEki0a8XjyI7">Linux Kernel Development Playlist</a></td>
+    <td><a href="https://www.youtube.com/playlist?list=PLsI2APLEA9Eq6z8zUlOJrqmc5KBwLTV4A">Linux Kernel Development Playlist</a></td>
     <td>A YouTube playlist focused on Linux kernel development, including tutorials on various aspects of kernel programming.</td>
   </tr>
   <tr>
@@ -606,6 +606,10 @@ Debugging tools are essential for diagnosing and fixing issues in OS development
   <tr>
   <td><a href="https://www.youtube.com/watch?v=H3vZRDkzHdo&list=PLXj4XH7LcRfDrdQuJTHIPmKMpa7eYVaPm">Operating System playlist by Sudhakar Atchala</a></td>
   <td>This playlist by Sudhakar Atchala , consists of OS concepts covered in-depth , with examples provided for proper understanding.</td>
+  </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PL3eEXnCBViH-SiXK96TZd-7k3Qvk5g1YH">Operating System playlist </a></td>
+  <td>The complete OS (Operating Systems) playlist covers core concepts, process management, memory management, file systems, and security, providing comprehensive insights and practical knowledge for mastering operating systems.</td>
   </tr>
 </table>
 
@@ -624,7 +628,24 @@ Here are some resources for Interview Questions.
     <td><a href="https://www.interviewbit.com/operating-system-interview-questions/">Operating System Interview Questions-InterviewBit</a></td>
     <td>These website contains 40+ commonly asked Interview Questions from basic to advanced level</td>
   </tr>
-  
+  <tr>
+  <td>
+  <a href="https://www.geeksforgeeks.org/operating-systems-interview-questions/">Operating System interview questions by GFG</a>
+  </td>
+  <td>This article contains top 100+ OS interview questions along with their answers.</td>
+  </tr>
+   <tr>
+  <td>
+  <a href="https://www.javatpoint.com/operating-system-interview-questions">Operating System interview questions by javatpoint</a>
+  </td>
+  <td>This website contains a list of top most frequently asked operating system interview questions and answers.</td>
+  </tr>
+   <tr>
+  <td>
+  <a href="https://www.sanfoundry.com/operating-system-interview-questions/">Operating System interview questions by sanfoundry</a>
+  </td>
+  <td>This website contains the top 50 commonly asked questions in operating system interviews.</td>
+  </tr>
 </table>
 
 
